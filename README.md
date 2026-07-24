@@ -63,13 +63,13 @@ In a Filipino sari-sari store, the vendors change with the shift — but the inf
 
 ## Screenshots
 
-| Sign in | Dashboard | Notes |
+| Sign in | Home | Notes |
 |:---:|:---:|:---:|
-| <img src="screenshots/login.png" width="230"> | <img src="screenshots/dashboard.png" width="230"> | <img src="screenshots/notes.png" width="230"> |
+| <img src="screenshots/login.png" width="230"> | <img src="screenshots/home.png" width="230"> | <img src="screenshots/notes-list.png" width="230"> |
 
-| New note | Store & invites | Activity timeline |
+| New note | Profile | Activity timeline |
 |:---:|:---:|:---:|
-| <img src="screenshots/new-note.png" width="230"> | <img src="screenshots/store.png" width="230"> | <img src="screenshots/activity.png" width="230"> |
+| <img src="screenshots/add-note.png" width="230"> | <img src="screenshots/profile.png" width="230"> | <img src="screenshots/activity.png" width="230"> |
 
 ---
 
