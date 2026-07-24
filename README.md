@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="240" alt="Dashboard">
-  <img src="screenshots/notes.png" width="240" alt="Notes">
-  <img src="screenshots/new-note.png" width="240" alt="New note">
+  <img src="screenshots/home.png" width="240" alt="Home">
+  <img src="screenshots/notes-list.png" width="240" alt="Notes">
+  <img src="screenshots/add-note.png" width="240" alt="New note">
 </p>
 
 > **Note on the source code**
