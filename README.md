@@ -1,5 +1,7 @@
 <h1 align="center">TindaNote</h1>
-
+<p align="center">
+  <img src="screenshots/tindanote-mark-transparent.png" width="200" alt="logo">
+</p>
 <p align="center">
   <strong>One shared notebook for the whole store.</strong><br>
   A cross-platform mobile app that keeps sari-sari store vendors in sync across every shift.
